@@ -1,0 +1,11 @@
+; $Id: uuid.info,v 1.1.2.1 2009/05/13 20:52:49 recidive Exp $
+name = "Universally Unique IDentifier (UUID)"
+description = "Generate Universally Unique IDentifier (UUID) for content."
+core = 6.x
+
+; Information added by drupal.org packaging script on 2010-11-16
+version = "6.x-1.x-dev"
+core = "6.x"
+project = "uuid"
+datestamp = "1289910205"
+
